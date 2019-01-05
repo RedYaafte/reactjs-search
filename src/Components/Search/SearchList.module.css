@@ -1,0 +1,8 @@
+.search-item {
+    margin: 5px;
+    padding: 10px;
+    transition: 0.4s;
+}
+.search-item:hover {
+    background-color: #eceaea;
+}

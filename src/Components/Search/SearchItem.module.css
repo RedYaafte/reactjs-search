@@ -1,0 +1,12 @@
+.search-list {
+    padding: 0;
+    list-style: none;
+}
+.search-cont {
+    display: flex;
+    flex-wrap: wrap;
+}
+.search-list a {
+    text-decoration: none;
+    color: rgb(83, 83, 151);
+}
